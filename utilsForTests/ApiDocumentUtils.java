@@ -1,5 +1,3 @@
-package com.example.diary.utils;
-
 import org.springframework.restdocs.operation.OperationResponse;
 import org.springframework.restdocs.operation.preprocess.OperationRequestPreprocessor;
 import org.springframework.restdocs.operation.preprocess.OperationResponsePreprocessor;
