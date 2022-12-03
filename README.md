@@ -1,3 +1,6 @@
 ## application.yml
+### das
 ## build.gradle
-## utils_for_tests
+## exceptionAdivce
+## template
+## utilsForTests
