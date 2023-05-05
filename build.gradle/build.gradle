@@ -65,6 +65,8 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-mail'
 	//Rest Template; Apache HttpComponents
 	implementation 'org.apache.httpcomponents:httpclient'
+	//Apache HttpComponents : RestTemplate 사용을 위함(서버간 Http 요청 전송 라이브러리)
+//	implementation 'org.apache.httpcomponents:httpclient'
 }
 
 tasks.named('test') { //tasks.named('A') : `:A라는 task 가 실행된 후~`라는 의미
